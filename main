@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>profile</title>
+    <link rel="stylesheet" href="profile-style.css">
+  </head>
+  <body>
+    <div class="c-1">
+      <img class="c" src="pics/cloud.png" alt="">
+      <h1 class="heading">i'm shreeyanshi soni</h1>
+      <br>
+      <h2 class="h2">a programmer</h2>
+      <img class="m" src="pics/mountain.png" alt="">
+        <img class="cl" src="pics/cloud.png" alt="">
+
+   </div>
+   <div class="c-2">
+    <img class="my"src="pics/my.jpeg" alt="">
+    <h2>profile</h2>
+    <p>Hello my name is shreeyandhi soni.</p>
+    <p>I am a student of B-tech in shri ram institute of technoloy and currently persuaing it branch. </p>
+</div>
+<div class="c-3">
+  <h1 class="h1">my skills</h1>
+  <div class="c-3-a">
+    <img class="web"src="pics/web.png" alt="">
+    <h2>design and development</h2>
+    <p>currently learning web development course on udemy. </p>
+    <p>Front-end web developers are responsible for how a website looks.</p>
+    <p>They create the site's layout and integrate graphics, applications (such as a retail checkout tool), and other content.</p>
+    <p>They also write webdesign programs in a variety of computer languages, such as HTML or JavaScript.</p>
+  </div>
+  <div class="c-3-b">
+    <h2>coding</h2>
+    <img class="code"src="pics/code.webp" alt="">
+    <p>A computer programmer, sometimes called a software developer, a programmer or more recently a coder (especially in more informal contexts), is a person who creates computer software. </p>
+    <p>The term computer programmer can refer to a specialist in one area of computers, or to a generalist who writes code for many kinds of software</p>
+    <br>
+  </div>
+
+</div>
+<div class="contact-me">
+  <hr>
+  <img class="contact" src="pics/contact.png" alt="">
+  <h2>get in touch</h2>
+  <a class="btn"href="mailto:anushree8817@gmail.com">contact-me  </a>
+
+
+</div>
+<div class="bottom">
+<a href="https://www.instagram.com/">instagram</a>
+<a href="https://www.facebook.com/">facebook</a>
+<br>
+</div>
+    </body>
+  </html>
